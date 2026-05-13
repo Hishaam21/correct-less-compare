@@ -1,0 +1,25 @@
+{
+  "name": "supabase-auth-app",
+  "version": "1.0.0",
+  "description": "A web application with full authentication using Supabase.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "@supabase/supabase-js": "^1.28.0",
+    "react-router-dom": "^5.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.27.1"
+  },
+  "homepage": "http://yourhomepage.com",
+  "license": "MIT"
+}

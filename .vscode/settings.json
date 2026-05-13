@@ -1,0 +1,5 @@
+{
+    "chat.planAgent.defaultModel": "GPT-5 mini (copilot)",
+    "inlineChat.defaultModel": "GPT-5 mini (copilot)",
+    "github.copilot.chat.updated53CodexPrompt.enabled": false
+}
