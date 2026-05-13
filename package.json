@@ -8,7 +8,7 @@
     "dev:server": "node server-new.js",
     "dev:both": "concurrently \"npm run dev:server\" \"npm run dev\"",
     "build": "vite build",
-    "start": "vite preview"
+    "start": "node server-new.js"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.89.0",
